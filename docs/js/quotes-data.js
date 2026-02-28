@@ -1,0 +1,522 @@
+window.__QUOTES_FALLBACK__ = [
+  {
+    "id": 1,
+    "chapter": "一、共产党",
+    "chapter_en": "The Communist Party",
+    "zh": "领导我们事业的核心力量是中国共产党。指导我们思想的理论基础是马克思列宁主义。",
+    "en": "The force at the core leading our cause forward is the Chinese Communist Party. The theoretical basis guiding our thinking is Marxism-Leninism.",
+    "source": "《中华人民共和国第一届全国人民代表大会第一次会议开幕词》（1954年）"
+  },
+  {
+    "id": 2,
+    "chapter": "一、共产党",
+    "chapter_en": "The Communist Party",
+    "zh": "没有中国共产党的努力，没有中国共产党人做中国人民的中流砥柱，中国的独立和解放是不可能的。",
+    "en": "Without the efforts of the Chinese Communist Party, without the Chinese Communists as the mainstay of the Chinese people, China's independence and liberation would be impossible.",
+    "source": "《论联合政府》（1945年）"
+  },
+  {
+    "id": 3,
+    "chapter": "一、共产党",
+    "chapter_en": "The Communist Party",
+    "zh": "我们应当相信群众，我们应当相信党，这是两条根本的原理。如果怀疑这两条原理，那就什么事情也做不成了。",
+    "en": "We should believe in the masses and we should believe in the Party. These are two cardinal principles. If we doubt these principles, we shall accomplish nothing.",
+    "source": "《关于农业合作化问题》（1955年）"
+  },
+  {
+    "id": 4,
+    "chapter": "一、共产党",
+    "chapter_en": "The Communist Party",
+    "zh": "政策和策略是党的生命，各级领导同志务必充分注意，万万不可粗心大意。",
+    "en": "Policy and tactics are the life of the Party; leading comrades at all levels must give them full attention and must never on any account be negligent.",
+    "source": "《关于情况的通报》（1948年）"
+  },
+  {
+    "id": 5,
+    "chapter": "二、阶级和阶级斗争",
+    "chapter_en": "Classes and Class Struggle",
+    "zh": "革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。",
+    "en": "A revolution is not a dinner party, or writing an essay, or painting a picture, or doing embroidery; it cannot be so refined, so leisurely and gentle, so temperate, kind, courteous, restrained and magnanimous.",
+    "source": "《湖南农民运动考察报告》（1927年）"
+  },
+  {
+    "id": 6,
+    "chapter": "二、阶级和阶级斗争",
+    "chapter_en": "Classes and Class Struggle",
+    "zh": "谁是我们的敌人？谁是我们的朋友？这个问题是革命的首要问题。",
+    "en": "Who are our enemies? Who are our friends? This is a question of the first importance for the revolution.",
+    "source": "《中国社会各阶级的分析》（1926年）"
+  },
+  {
+    "id": 7,
+    "chapter": "二、阶级和阶级斗争",
+    "chapter_en": "Classes and Class Struggle",
+    "zh": "凡是敌人反对的，我们就要拥护；凡是敌人拥护的，我们就要反对。",
+    "en": "We should support whatever the enemy opposes and oppose whatever the enemy supports.",
+    "source": "《和中央社、扫荡报、新民报三记者的谈话》（1939年）"
+  },
+  {
+    "id": 8,
+    "chapter": "三、社会主义和共产主义",
+    "chapter_en": "Socialism and Communism",
+    "zh": "社会主义制度终究要代替资本主义制度，这是一个不以人们自己的意志为转移的客观规律。",
+    "en": "The socialist system will eventually replace the capitalist system; this is an objective law independent of man's will.",
+    "source": "《在苏联最高苏维埃庆祝伟大的十月社会主义革命四十周年会议上的讲话》（1957年）"
+  },
+  {
+    "id": 9,
+    "chapter": "三、社会主义和共产主义",
+    "chapter_en": "Socialism and Communism",
+    "zh": "除了别的特点之外，中国六亿人口的显著特点是一穷二白。这些看起来是坏事，其实是好事。穷则思变，要干，要革命。一张白纸，没有负担，好写最新最美的文字，好画最新最美的画图。",
+    "en": "Apart from their other characteristics, the outstanding thing about China's 600 million people is that they are 'poor and blank'. This may seem a bad thing, but in reality it is a good thing. Poverty gives rise to the desire for change. A clean sheet of paper has no blotches, and so the newest and most beautiful words can be written on it.",
+    "source": "《介绍一个合作社》（1958年）"
+  },
+  {
+    "id": 10,
+    "chapter": "四、正确处理人民内部矛盾",
+    "chapter_en": "The Correct Handling of Contradictions Among the People",
+    "zh": "凡属于思想性质的问题，凡属于人民内部的争论问题，只能用民主的方法去解决，只能用讨论的方法、批评的方法、说服教育的方法去解决，而不能用强制的、压服的方法去解决。",
+    "en": "All questions of an ideological nature and all questions of controversy among the people can only be resolved by democratic methods, by discussion, criticism, persuasion and education, and not by coercive or repressive methods.",
+    "source": "《关于正确处理人民内部矛盾的问题》（1957年）"
+  },
+  {
+    "id": 11,
+    "chapter": "四、正确处理人民内部矛盾",
+    "chapter_en": "The Correct Handling of Contradictions Among the People",
+    "zh": "在人民内部，不可以没有自由，也不可以没有纪律；不可以没有民主，也不可以没有集中。这种民主和集中的统一，自由和纪律的统一，就是我们的民主集中制。",
+    "en": "Among the people, democracy is correlative with centralism and freedom with discipline. They are the two opposites of a single entity, contradictory as well as united, and we should not one-sidedly emphasize one to the denial of the other.",
+    "source": "《关于正确处理人民内部矛盾的问题》（1957年）"
+  },
+  {
+    "id": 12,
+    "chapter": "五、战争与和平",
+    "chapter_en": "War and Peace",
+    "zh": "每个共产党员都应懂得这个真理：「枪杆子里面出政权」。",
+    "en": "Every Communist must grasp the truth: 'Political power grows out of the barrel of a gun.'",
+    "source": "《战争和战略问题》（1938年）"
+  },
+  {
+    "id": 13,
+    "chapter": "五、战争与和平",
+    "chapter_en": "War and Peace",
+    "zh": "战争——这个人类互相残杀的怪物，人类社会的发展终久要把它消灭的，而且就在不远的将来会要把它消灭的。",
+    "en": "War, this monster of mutual slaughter among men, will be finally eliminated by the progress of human society, and in the not too distant future too.",
+    "source": "《中国革命战争的战略问题》（1936年）"
+  },
+  {
+    "id": 14,
+    "chapter": "六、帝国主义和一切反动派都是纸老虎",
+    "chapter_en": "Imperialism and All Reactionaries Are Paper Tigers",
+    "zh": "一切反动派都是纸老虎。看起来，反动派的样子是可怕的，但是实际上并没有什么了不起的力量。从长远的观点看问题，真正强大的力量不是属于反动派，而是属于人民。",
+    "en": "All reactionaries are paper tigers. In appearance, the reactionaries are terrifying, but in reality they are not so powerful. From a long-term point of view, it is not the reactionaries but the people who are really powerful.",
+    "source": "《和美国记者安那·路易斯·斯特朗的谈话》（1946年）"
+  },
+  {
+    "id": 15,
+    "chapter": "六、帝国主义和一切反动派都是纸老虎",
+    "chapter_en": "Imperialism and All Reactionaries Are Paper Tigers",
+    "zh": "帝国主义和一切反动派也有两重性，它们是真老虎又是纸老虎。在战略上我们要藐视一切敌人，在战术上我们要重视一切敌人。",
+    "en": "Imperialism and all reactionaries have a dual nature — they are real tigers and paper tigers at the same time. Strategically, we should despise all our enemies, but tactically we should take them all seriously.",
+    "source": "《在莫斯科共产党和工人党代表会议上的讲话》（1957年）"
+  },
+  {
+    "id": 16,
+    "chapter": "七、敢于斗争，敢于胜利",
+    "chapter_en": "Dare to Struggle, Dare to Win",
+    "zh": "下定决心，不怕牺牲，排除万难，去争取胜利。",
+    "en": "Be resolute, fear no sacrifice and surmount every difficulty to win victory.",
+    "source": "《愚公移山》（1945年）"
+  },
+  {
+    "id": 17,
+    "chapter": "七、敢于斗争，敢于胜利",
+    "chapter_en": "Dare to Struggle, Dare to Win",
+    "zh": "这个军队具有一往无前的精神，它要压倒一切敌人，而决不被敌人所屈服。不论在任何艰难困苦的场合，只要还有一个人，这个人就要继续战斗下去。",
+    "en": "This army has an indomitable spirit and is determined to vanquish all enemies and never to yield. No matter what the difficulties and hardships, so long as a single man remains, he will fight on.",
+    "source": "《论联合政府》（1945年）"
+  },
+  {
+    "id": 18,
+    "chapter": "八、人民战争",
+    "chapter_en": "People's War",
+    "zh": "革命战争是群众的战争，只有动员群众才能进行战争，只有依靠群众才能进行战争。",
+    "en": "Revolutionary war is a war of the masses; it can be waged only by mobilizing the masses and relying on them.",
+    "source": "《关心群众生活，注意工作方法》（1934年）"
+  },
+  {
+    "id": 19,
+    "chapter": "八、人民战争",
+    "chapter_en": "People's War",
+    "zh": "真正的铜墙铁壁是什么？是群众，是千百万真心实意地拥护革命的群众。",
+    "en": "What is a true bastion of iron? It is the masses, the millions upon millions of people who genuinely and sincerely support the revolution.",
+    "source": "《关心群众生活，注意工作方法》（1934年）"
+  },
+  {
+    "id": 20,
+    "chapter": "九、人民军队",
+    "chapter_en": "The People's Army",
+    "zh": "没有一个人民的军队，便没有人民的一切。",
+    "en": "Without a people's army the people have nothing.",
+    "source": "《论联合政府》（1945年）"
+  },
+  {
+    "id": 21,
+    "chapter": "九、人民军队",
+    "chapter_en": "The People's Army",
+    "zh": "我们的原则是党指挥枪，而决不容许枪指挥党。",
+    "en": "Our principle is that the Party commands the gun, and the gun must never be allowed to command the Party.",
+    "source": "《战争和战略问题》（1938年）"
+  },
+  {
+    "id": 22,
+    "chapter": "十、党委领导",
+    "chapter_en": "Party Committee Leadership",
+    "zh": "学会「弹钢琴」。弹钢琴要十个指头都动作，不能有的动，有的不动。但是，十个指头同时都按下去，那也不成调子。要产生好的音乐，十个指头的动作要有节奏，要互相配合。",
+    "en": "Learn to 'play the piano'. In playing the piano all ten fingers are in motion; it won't do to move some fingers only and not others. But if all ten fingers press down at once, there is no melody. To produce good music, the ten fingers should move rhythmically and in coordination.",
+    "source": "《党委会的工作方法》（1949年）"
+  },
+  {
+    "id": 23,
+    "chapter": "十一、群众路线",
+    "chapter_en": "The Mass Line",
+    "zh": "人民、只有人民，才是创造世界历史的动力。",
+    "en": "The people, and the people alone, are the motive force in the making of world history.",
+    "source": "《论联合政府》（1945年）"
+  },
+  {
+    "id": 24,
+    "chapter": "十一、群众路线",
+    "chapter_en": "The Mass Line",
+    "zh": "群众是真正的英雄，而我们自己则往往是幼稚可笑的，不了解这一点，就不能得到起码的知识。",
+    "en": "The masses are the real heroes, while we ourselves are often childish and ignorant, and without this understanding it is impossible to acquire even the most rudimentary knowledge.",
+    "source": "《「农村调查」的序言和跋》（1941年）"
+  },
+  {
+    "id": 25,
+    "chapter": "十一、群众路线",
+    "chapter_en": "The Mass Line",
+    "zh": "从群众中集中起来又到群众中坚持下去，以形成正确的领导意见，这是基本的领导方法。",
+    "en": "Take the ideas of the masses and concentrate them, then go to the masses, persevere in the ideas and carry them through — this is the basic method of leadership.",
+    "source": "《关于领导方法的若干问题》（1943年）"
+  },
+  {
+    "id": 26,
+    "chapter": "十二、政治工作",
+    "chapter_en": "Political Work",
+    "zh": "掌握思想教育，是团结全党进行伟大政治斗争的中心环节。如果这个任务不解决，党的一切政治任务是不能完成的。",
+    "en": "Ideological education is the key link to be grasped in uniting the whole Party for great political struggles. Unless this is done, the Party cannot accomplish any of its political tasks.",
+    "source": "《论联合政府》（1945年）"
+  },
+  {
+    "id": 27,
+    "chapter": "十三、官兵关系",
+    "chapter_en": "Relations Between Officers and Men",
+    "zh": "我们的干部要关心每一个战士，一切革命队伍的人都要互相关心，互相爱护，互相帮助。",
+    "en": "Our cadres must show concern for every soldier, and all people in the revolutionary ranks must care for each other, must love and help each other.",
+    "source": "《为人民服务》（1944年）"
+  },
+  {
+    "id": 28,
+    "chapter": "十四、军民关系",
+    "chapter_en": "Relations Between the Army and the People",
+    "zh": "军队须和民众打成一片，使军队在民众眼睛中看成是自己的军队，这个军队便无敌于天下。",
+    "en": "The army must become one with the people so that they see it as their own army. Such an army will be invincible.",
+    "source": "《论持久战》（1938年）"
+  },
+  {
+    "id": 29,
+    "chapter": "十五、三大民主",
+    "chapter_en": "Democracy in the Three Main Fields",
+    "zh": "军队内部的民主运动，其基本内容是在军官与士兵之间、在军队与人民之间建立正确的关系。",
+    "en": "The democratic movement in the army aims at building correct relationships between officers and soldiers and between the army and the people.",
+    "source": "《论联合政府》（1945年）"
+  },
+  {
+    "id": 30,
+    "chapter": "十六、教育和训练",
+    "chapter_en": "Education and Training",
+    "zh": "我们的教育方针，应该使受教育者在德育、智育、体育几方面都得到发展，成为有社会主义觉悟的有文化的劳动者。",
+    "en": "Our educational policy must enable everyone who receives an education to develop morally, intellectually and physically and become a worker with both socialist consciousness and culture.",
+    "source": "《关于正确处理人民内部矛盾的问题》（1957年）"
+  },
+  {
+    "id": 31,
+    "chapter": "十七、为人民服务",
+    "chapter_en": "Serving the People",
+    "zh": "我们的共产党和共产党所领导的八路军、新四军，是革命的队伍。我们这个队伍完全是为着解放人民的，是彻底地为人民的利益工作的。",
+    "en": "Our Communist Party and the Eighth Route and New Fourth Armies led by our Party are battalions of the revolution. These battalions of ours are wholly dedicated to the liberation of the people and work entirely in the people's interests.",
+    "source": "《为人民服务》（1944年）"
+  },
+  {
+    "id": 32,
+    "chapter": "十七、为人民服务",
+    "chapter_en": "Serving the People",
+    "zh": "人总是要死的，但死的意义有不同。中国古时候有个文学家叫做司马迁的说过：「人固有一死，或重于泰山，或轻于鸿毛。」为人民利益而死，就比泰山还重。",
+    "en": "All men must die, but death can vary in its significance. The ancient Chinese writer Szuma Chien said, 'Though death befalls all men alike, it may be weightier than Mount Tai or lighter than a feather.' To die for the people is weightier than Mount Tai.",
+    "source": "《为人民服务》（1944年）"
+  },
+  {
+    "id": 33,
+    "chapter": "十七、为人民服务",
+    "chapter_en": "Serving the People",
+    "zh": "一个人能力有大小，但只要有这点精神，就是一个高尚的人，一个纯粹的人，一个有道德的人，一个脱离了低级趣味的人，一个有益于人民的人。",
+    "en": "A man's ability may be great or small, but if he has this spirit, he is already noble-minded and pure, a man of moral integrity and above vulgar interests, a man who is of value to the people.",
+    "source": "《纪念白求恩》（1939年）"
+  },
+  {
+    "id": 34,
+    "chapter": "十七、为人民服务",
+    "chapter_en": "Serving the People",
+    "zh": "为人民利益而死，就比泰山还重；替法西斯卖力，替剥削人民和压迫人民的人去死，就比鸿毛还轻。",
+    "en": "To die for the people is weightier than Mount Tai, but to work for the fascists and die for the exploiters and oppressors is lighter than a feather.",
+    "source": "《为人民服务》（1944年）"
+  },
+  {
+    "id": 35,
+    "chapter": "十八、爱国主义和国际主义",
+    "chapter_en": "Patriotism and Internationalism",
+    "zh": "中国应当对于人类有较大的贡献。而这种贡献，在过去一个长时期内，则是太少了。这使我们感到惭愧。",
+    "en": "China ought to make a greater contribution to humanity. And she has made far too little in the long past. For this we are regretful.",
+    "source": "《纪念孙中山先生》（1956年）"
+  },
+  {
+    "id": 36,
+    "chapter": "十九、革命英雄主义",
+    "chapter_en": "Revolutionary Heroism",
+    "zh": "成千成万的先烈，为着人民的利益，在我们的前头英勇地牺牲了，让我们高举起他们的旗帜，踏着他们的血迹前进吧！",
+    "en": "Thousands upon thousands of martyrs have heroically laid down their lives for the people; let us hold their banner high and march ahead along the path crimson with their blood!",
+    "source": "《论联合政府》（1945年）"
+  },
+  {
+    "id": 37,
+    "chapter": "二十、勤俭建国",
+    "chapter_en": "Building Our Country Through Diligence and Frugality",
+    "zh": "要使全体干部和全体人民经常想到我国是一个社会主义的大国，但又是一个经济落后的穷国，这是一个很大的矛盾。要使我国富强起来，需要几十年艰苦奋斗的时间。",
+    "en": "We must see to it that all our cadres and all our people constantly bear in mind that ours is a big socialist country but an economically backward and poor one — a very great contradiction. To make China rich and strong needs several decades of intense effort.",
+    "source": "《关于正确处理人民内部矛盾的问题》（1957年）"
+  },
+  {
+    "id": 38,
+    "chapter": "二十、勤俭建国",
+    "chapter_en": "Building Our Country Through Diligence and Frugality",
+    "zh": "节省每一个铜板为着战争和革命事业，为着我们的经济建设，是我们的会计制度的原则。",
+    "en": "Thrift should be the guiding principle in our government expenditure. It should be made clear to all government workers that corruption and waste are very great crimes.",
+    "source": "《我们的经济政策》（1934年）"
+  },
+  {
+    "id": 39,
+    "chapter": "二十一、自力更生，艰苦奋斗",
+    "chapter_en": "Self-Reliance and Arduous Struggle",
+    "zh": "我们的方针要放在什么基点上？放在自己力量的基点上，叫做自力更生。",
+    "en": "On what basis should our policy rest? It should rest on our own strength, and that means regeneration through one's own efforts.",
+    "source": "《抗日战争胜利后的时局和我们的方针》（1945年）"
+  },
+  {
+    "id": 40,
+    "chapter": "二十一、自力更生，艰苦奋斗",
+    "chapter_en": "Self-Reliance and Arduous Struggle",
+    "zh": "我们是主张自力更生的。我们希望有外援，但是我们不能依赖它，我们依靠自己的努力，依靠全体军民的创造力。",
+    "en": "We stand for self-reliance. We hope for foreign aid but cannot be dependent on it; we depend on our own efforts, on the creative power of the whole army and the entire people.",
+    "source": "《必须学会做经济工作》（1945年）"
+  },
+  {
+    "id": 41,
+    "chapter": "二十二、思想方法和工作方法",
+    "chapter_en": "Methods of Thinking and Methods of Work",
+    "zh": "人的正确思想是从那里来的？是从天上掉下来的吗？不是。是自己头脑里固有的吗？不是。人的正确思想，只能从社会实践中来。",
+    "en": "Where do correct ideas come from? Do they drop from the skies? No. Are they innate in the mind? No. They come from social practice, and from it alone.",
+    "source": "《人的正确思想是从那里来的？》（1963年）"
+  },
+  {
+    "id": 42,
+    "chapter": "二十二、思想方法和工作方法",
+    "chapter_en": "Methods of Thinking and Methods of Work",
+    "zh": "我们不但要提出任务，而且要解决完成任务的方法问题。我们的任务是过河，但是没有桥或没有船就不能过。不解决桥或船的问题，过河就是一句空话。",
+    "en": "We should not only propose tasks but also solve the question of the methods for carrying them out. Our task is to cross the river, but we cannot cross it without a bridge or a boat. Unless the bridge or boat problem is solved, it is idle to speak of crossing the river.",
+    "source": "《关心群众生活，注意工作方法》（1934年）"
+  },
+  {
+    "id": 43,
+    "chapter": "二十二、思想方法和工作方法",
+    "chapter_en": "Methods of Thinking and Methods of Work",
+    "zh": "我们必须学会全面地看问题，不但要看到事物的正面，也要看到它的反面。在一定的条件下，坏的东西可以引出好的结果，好的东西也可以引出坏的结果。",
+    "en": "We must learn to look at problems all-sidedly, seeing the reverse as well as the obverse side of things. In given conditions, a bad thing can lead to good results and a good thing to bad results.",
+    "source": "《关于正确处理人民内部矛盾的问题》（1957年）"
+  },
+  {
+    "id": 44,
+    "chapter": "二十三、调查研究",
+    "chapter_en": "Investigation and Study",
+    "zh": "没有调查就没有发言权。",
+    "en": "No investigation, no right to speak.",
+    "source": "《反对本本主义》（1930年）"
+  },
+  {
+    "id": 45,
+    "chapter": "二十三、调查研究",
+    "chapter_en": "Investigation and Study",
+    "zh": "调查就象「十月怀胎」，解决问题就象「一朝分娩」。调查就是解决问题。",
+    "en": "Investigation may be likened to the long months of pregnancy, and solving a problem to the day of birth. To investigate a problem is, indeed, to solve it.",
+    "source": "《反对本本主义》（1930年）"
+  },
+  {
+    "id": 46,
+    "chapter": "二十四、纠正错误思想",
+    "chapter_en": "Correcting Mistaken Ideas",
+    "zh": "虚心使人进步，骄傲使人落后，我们应当永远记住这个真理。",
+    "en": "Modesty helps one to go forward, whereas conceit makes one lag behind. We should always remember this truth.",
+    "source": "《中国共产党第八次全国代表大会开幕词》（1956年）"
+  },
+  {
+    "id": 47,
+    "chapter": "二十四、纠正错误思想",
+    "chapter_en": "Correcting Mistaken Ideas",
+    "zh": "房子是应该经常打扫的，不打扫就会积满了灰尘；脸是应该经常洗的，不洗也就会灰尘满面。我们同志的思想，我们党的工作，也会沾染灰尘的，也应该打扫和洗涤。",
+    "en": "Our comrades' minds and our Party's work may also collect dust, and also need sweeping and washing. The proverb 'Running water is never stale and a door-hinge is never worm-eaten' means that constant motion prevents the inroads of germs and other organisms.",
+    "source": "《论联合政府》（1945年）"
+  },
+  {
+    "id": 48,
+    "chapter": "二十五、团结",
+    "chapter_en": "Unity",
+    "zh": "国家的统一，人民的团结，国内各民族的团结，这是我们的事业必定要胜利的基本保证。",
+    "en": "The unification of our country, the unity of our people and the unity of our various nationalities — these are the basic guarantees of the sure triumph of our cause.",
+    "source": "《关于正确处理人民内部矛盾的问题》（1957年）"
+  },
+  {
+    "id": 49,
+    "chapter": "二十五、团结",
+    "chapter_en": "Unity",
+    "zh": "团结一致，同心同德，任何强大的敌人，任何困难的环境，都会向我们投降。",
+    "en": "United and working together with one heart, any powerful enemy, any difficult environment, will surrender to us.",
+    "source": "《中国共产党在抗日时期的任务》（1937年）"
+  },
+  {
+    "id": 50,
+    "chapter": "二十六、纪律",
+    "chapter_en": "Discipline",
+    "zh": "加强纪律性，革命无不胜。",
+    "en": "Strengthen discipline and the revolution will be invincible.",
+    "source": "《中国人民解放军总部关于重新颁布三大纪律八项注意的训令》（1947年）"
+  },
+  {
+    "id": 51,
+    "chapter": "二十七、批评和自我批评",
+    "chapter_en": "Criticism and Self-Criticism",
+    "zh": "因为我们是为人民服务的，所以，我们如果有缺点，就不怕别人批评指出。不管是什么人，谁向我们指出都行。只要你说得对，我们就改正。",
+    "en": "Because we serve the people, we are not afraid of having our shortcomings pointed out by others. No matter who it is, anyone can point them out. If what they say is right, we will correct ourselves.",
+    "source": "《为人民服务》（1944年）"
+  },
+  {
+    "id": 52,
+    "chapter": "二十七、批评和自我批评",
+    "chapter_en": "Criticism and Self-Criticism",
+    "zh": "对以前的错误一定要揭发，不讲情面，要以科学的态度来分析批判过去的坏东西，以便使后来的工作慎重些，做得好些。这就是「惩前毖后」的意思。",
+    "en": "Past errors must be exposed without sparing anyone's sensibilities; it is necessary to analyze and criticize what was bad in the past with a scientific attitude so that work in the future will be done more carefully and done better. This is what is meant by 'learn from past mistakes to avoid future ones'.",
+    "source": "《整顿党的作风》（1942年）"
+  },
+  {
+    "id": 53,
+    "chapter": "二十八、共产党员",
+    "chapter_en": "Communists",
+    "zh": "一个共产党员，应该是襟怀坦白，忠实，积极，以革命利益为第一生命，以个人利益服从革命利益。",
+    "en": "A Communist should be frank and honest, faithful and active, looking upon the interests of the revolution as his very life and subordinating his personal interests to those of the revolution.",
+    "source": "《反对自由主义》（1937年）"
+  },
+  {
+    "id": 54,
+    "chapter": "二十九、干部",
+    "chapter_en": "Cadres",
+    "zh": "政治路线确定之后，干部就是决定的因素。因此，有计划地培养大批的新干部，就是我们的战斗任务。",
+    "en": "After the political line is determined, cadres are the decisive factor. Therefore, it is our fighting task to train large numbers of new cadres in a planned way.",
+    "source": "《中国共产党在民族战争中的地位》（1938年）"
+  },
+  {
+    "id": 55,
+    "chapter": "三十、青年",
+    "chapter_en": "Youth",
+    "zh": "世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好象早晨八、九点钟的太阳。希望寄托在你们身上。",
+    "en": "The world is yours, as well as ours, but in the last analysis, it is yours. You young people, full of vigor and vitality, are in the bloom of life, like the sun at eight or nine in the morning. Our hope is placed on you.",
+    "source": "在莫斯科会见我国留学生和实习生时的谈话（1957年）"
+  },
+  {
+    "id": 56,
+    "chapter": "三十一、妇女",
+    "chapter_en": "Women",
+    "zh": "时代不同了，男女都一样。男同志能办到的事情，女同志也能办得到。",
+    "en": "Times have changed, and today men and women are equal. Whatever men comrades can accomplish, women comrades can too.",
+    "source": "《为女民兵题照》（1961年）"
+  },
+  {
+    "id": 57,
+    "chapter": "三十二、文化艺术",
+    "chapter_en": "Culture and Art",
+    "zh": "在现在世界上，一切文化或文学艺术都是属于一定的阶级，属于一定的政治路线的。为艺术的艺术，超阶级的艺术，和政治并行或互相独立的艺术，实际上是不存在的。",
+    "en": "In the world today all culture, all literature and art belong to definite classes and are geared to definite political lines. There is in fact no such thing as art for art's sake, art that stands above classes, art that is detached from or independent of politics.",
+    "source": "《在延安文艺座谈会上的讲话》（1942年）"
+  },
+  {
+    "id": 58,
+    "chapter": "三十二、文化艺术",
+    "chapter_en": "Culture and Art",
+    "zh": "百花齐放、百家争鸣的方针，是促进艺术发展和科学进步的方针，是促进我国的社会主义文化繁荣的方针。",
+    "en": "Letting a hundred flowers blossom and a hundred schools of thought contend is the policy for promoting progress in the arts and the sciences and a flourishing socialist culture in our land.",
+    "source": "《关于正确处理人民内部矛盾的问题》（1957年）"
+  },
+  {
+    "id": 59,
+    "chapter": "三十三、学习",
+    "chapter_en": "Study",
+    "zh": "读书是学习，使用也是学习，而且是更重要的学习。从战争学习战争——这是我们的主要方法。",
+    "en": "Reading is learning, but applying is also learning and the more important kind of learning at that. Our chief method is to learn warfare through warfare.",
+    "source": "《中国革命战争的战略问题》（1936年）"
+  },
+  {
+    "id": 60,
+    "chapter": "三十三、学习",
+    "chapter_en": "Study",
+    "zh": "学习的敌人是自己的满足，要认真学习一点东西，必须从不自满开始。对自己，「学而不厌」，对人家，「诲人不倦」，我们应取这种态度。",
+    "en": "Complacency is the enemy of study. We cannot really learn anything until we rid ourselves of complacency. Our attitude towards ourselves should be 'to be insatiable in learning' and towards others 'to be tireless in teaching'.",
+    "source": "《中国共产党在民族战争中的地位》（1938年）"
+  },
+  {
+    "id": 61,
+    "chapter": "三十三、学习",
+    "chapter_en": "Study",
+    "zh": "情况是在不断地变化，要使自己的思想适应新的情况，就得学习。即使是对于马克思主义已经了解得比较多的人，无产阶级立场比较坚定的人，也还是要再学习，要接受新事物，要研究新问题。",
+    "en": "Conditions are constantly changing, and to adapt one's thinking to the new conditions, one must study. Even those who have a better grasp of Marxism and are comparatively firm in their proletarian stand have to go on studying, have to absorb what is new and study new problems.",
+    "source": "《在中国共产党全国宣传工作会议上的讲话》（1957年）"
+  },
+  {
+    "id": 62,
+    "chapter": "五、战争与和平",
+    "chapter_en": "War and Peace",
+    "zh": "我们是战争消灭论者，我们是不要战争的；但是只能经过战争去消灭战争，不要枪杆子必须拿起枪杆子。",
+    "en": "We are advocates of the abolition of war, we do not want war; but war can only be abolished through war, and in order to get rid of the gun it is necessary to take up the gun.",
+    "source": "《战争和战略问题》（1938年）"
+  },
+  {
+    "id": 63,
+    "chapter": "十一、群众路线",
+    "chapter_en": "The Mass Line",
+    "zh": "共产党人的一切言论行动，必须以合乎最广大人民群众的最大利益，为最广大人民群众所拥护为最高标准。",
+    "en": "At no time and in no circumstances should a Communist place his personal interests first; he should subordinate them to the interests of the nation and of the masses.",
+    "source": "《论联合政府》（1945年）"
+  },
+  {
+    "id": 64,
+    "chapter": "二十二、思想方法和工作方法",
+    "chapter_en": "Methods of Thinking and Methods of Work",
+    "zh": "世界上怕就怕「认真」二字，共产党就最讲「认真」。",
+    "en": "What is most to be feared in the world is the word 'earnestness', and the Communist Party is most earnest of all.",
+    "source": "《在中国共产党全国宣传工作会议上的讲话》（1957年）"
+  },
+  {
+    "id": 65,
+    "chapter": "七、敢于斗争，敢于胜利",
+    "chapter_en": "Dare to Struggle, Dare to Win",
+    "zh": "我们的同志在困难的时候，要看到成绩，要看到光明，要提高我们的勇气。",
+    "en": "In times of difficulty we must not lose sight of our achievements, must see the bright future and must pluck up our courage.",
+    "source": "《为人民服务》（1944年）"
+  }
+];
