@@ -69,6 +69,7 @@
               <br>
               <span style="font-size: 0.75rem; color: var(--text-muted);">{{ currentQuote.source }}</span>
             </div>
+            <p class="quote-note" v-if="currentQuote.note">* {{ lang === 'en' ? currentQuote.note_en : currentQuote.note }}</p>
 
             <div class="hero-actions">
               <button class="btn btn-primary" @click="nextQuote" aria-label="Next quote">
@@ -129,6 +130,7 @@
           <p class="quote-card-zh" v-if="lang === 'zh'">{{ quote.zh }}</p>
           <p class="quote-card-en">{{ quote.en }}</p>
           <div class="quote-card-source" v-if="lang === 'zh'">{{ quote.source }}</div>
+          <p class="quote-note" v-if="quote.note">* {{ lang === 'en' ? quote.note_en : quote.note }}</p>
         </div>
       </div>
 

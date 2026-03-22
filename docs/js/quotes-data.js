@@ -99,7 +99,7 @@ window.__QUOTES_FALLBACK__ = [
     "id": 13,
     "chapter": "五、战争与和平",
     "chapter_en": "War and Peace",
-    "zh": "战争——这个人类互相残杀的怪物，人类社会的发展终久要把它消灭的，而且就在不远的将来会要把它消灭的。",
+    "zh": "战争——这个人类互相残杀的怪物，人类社会的发展终究要把它消灭的，而且就在不远的将来会要把它消灭的。",
     "en": "War, this monster of mutual slaughter among men, will be finally eliminated by the progress of human society, and in the not too distant future too.",
     "source": "《中国革命战争的战略问题》（1936年）"
   },
@@ -357,7 +357,9 @@ window.__QUOTES_FALLBACK__ = [
     "chapter_en": "Investigation and Study",
     "zh": "调查就象「十月怀胎」，解决问题就象「一朝分娩」。调查就是解决问题。",
     "en": "Investigation may be likened to the long months of pregnancy, and solving a problem to the day of birth. To investigate a problem is, indeed, to solve it.",
-    "source": "《反对本本主义》（1930年）"
+    "source": "《反对本本主义》（1930年）",
+    "note": "「象」为原版用字，现代规范写作「像」，此处保留原貌。",
+    "note_en": "'象' is the original character used; modern standard Chinese writes '像'. The original form is preserved here."
   },
   {
     "id": 46,
@@ -437,7 +439,9 @@ window.__QUOTES_FALLBACK__ = [
     "chapter_en": "Youth",
     "zh": "世界是你们的，也是我们的，但是归根结底是你们的。你们青年人朝气蓬勃，正在兴旺时期，好象早晨八、九点钟的太阳。希望寄托在你们身上。",
     "en": "The world is yours, as well as ours, but in the last analysis, it is yours. You young people, full of vigor and vitality, are in the bloom of life, like the sun at eight or nine in the morning. Our hope is placed on you.",
-    "source": "在莫斯科会见我国留学生和实习生时的谈话（1957年）"
+    "source": "在莫斯科会见我国留学生和实习生时的谈话（1957年）",
+    "note": "「象」为原版用字，现代规范写作「像」，此处保留原貌。",
+    "note_en": "'象' is the original character used; modern standard Chinese writes '像'. The original form is preserved here."
   },
   {
     "id": 56,
