@@ -601,6 +601,19 @@ html.dark .portrait-img {
   font-style: italic;
 }
 
+.footer-stats {
+  margin-top: 0.75rem;
+  font-size: 0.6875rem;
+  color: var(--text-muted);
+  letter-spacing: 0.03em;
+  opacity: 0.7;
+}
+
+.footer-stats-sep {
+  margin: 0 0.5rem;
+  opacity: 0.4;
+}
+
 /* ── Empty State ── */
 .empty-state {
   text-align: center;

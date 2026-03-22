@@ -7,6 +7,16 @@
   <meta name="description" content="1966版《毛主席语录》中英双语珍藏版，每日精选语录推荐。">
   <link rel="stylesheet" href="./css/style.css">
   <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+  <!-- Google Analytics GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T36Y72Q1PB"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-T36Y72Q1PB');
+  </script>
+  <!-- 不蒜子 -->
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 </head>
 <body>
   <div id="app">
@@ -146,6 +156,11 @@
       <div class="footer-inner">
         <p class="footer-title">{{ lang === 'zh' ? '毛主席语录 · 1966版珍藏版' : 'Quotations from Chairman Mao Tse-tung' }}</p>
         <p class="footer-subtitle">{{ lang === 'zh' ? 'Quotations from Chairman Mao Tse-tung · 1966 Edition' : '1966 Edition' }}</p>
+        <p class="footer-stats">
+          <span id="busuanzi_container_site_pv">{{ lang === 'zh' ? '总浏览' : 'Views' }} <span id="busuanzi_value_site_pv">-</span> {{ lang === 'zh' ? '次' : '' }}</span>
+          <span class="footer-stats-sep">·</span>
+          <span id="busuanzi_container_site_uv">{{ lang === 'zh' ? '访客' : 'Visitors' }} <span id="busuanzi_value_site_uv">-</span> {{ lang === 'zh' ? '人' : '' }}</span>
+        </p>
       </div>
     </footer>
   </div>
